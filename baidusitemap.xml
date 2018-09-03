@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://www.hrfeat.top/hello-world.html</loc>
+    <lastmod>2018-09-03T10:10:39.201Z</lastmod>
+    <data>
+        <display>
+        <title>测试标题</title>
+        <pubTime>2018-07-07T20:25:31.000Z</pubTime>
+        
+        <tag>centOS</tag>
+         
+        <tag>tomcat</tag>
+         
+         
+           
+             
+              <breadCrumb title="hexo" url="http://www.hrfeat.top/categories/hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+    
+</urlset>
